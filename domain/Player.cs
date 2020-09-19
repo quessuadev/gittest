@@ -6,6 +6,8 @@ namespace testGit.domain {
         public string Email { get; set; }
 
         public int age { get; set; }
+
+        public string favouriteColor { get; set; }
     }
 
     public enum abilities {
