@@ -4,6 +4,8 @@ namespace testGit.domain {
         public double Rating { get; set; }
 
         public string Email { get; set; }
+
+        public int age { get; set; }
     }
 
     public enum abilities {
