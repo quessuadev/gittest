@@ -5,4 +5,11 @@ namespace testGit.domain {
 
         public string email { get; set; }
     }
+
+    public enum abilities {
+
+        strength,
+        flight,
+        speed
+    }
 }
