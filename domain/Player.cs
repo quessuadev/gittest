@@ -3,7 +3,7 @@ namespace testGit.domain {
         public string Username { get; set; }
         public double Rating { get; set; }
 
-        public string email { get; set; }
+        public string Email { get; set; }
     }
 
     public enum abilities {
